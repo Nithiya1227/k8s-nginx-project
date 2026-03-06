@@ -53,14 +53,17 @@ kubectl scale deployment nginx-deployment --replicas=4
 
 ## Screenshots
 
+### Project Folder
+![Folder Structure](screenshots/folder-nginx-k8.png)
+
 ### Running Pods
-![Pods](screenshots/pods.png)
+![Pods](screenshots/pod-run.png)
 
 ### Service Created
-![Service](screenshots/service.png)
+![Service](screenshots/replicaset-4-run.png)
 
 ### Nginx Running in Browser
-![Nginx](screenshots/nginx-page.png)
+![Nginx](screenshots/k8-ouput.png)
 
 -----
 
